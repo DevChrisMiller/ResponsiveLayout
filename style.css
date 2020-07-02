@@ -70,6 +70,10 @@ a {
     height: 70vh;
 }
 
+.container > img {
+    z-index: -1;
+}
+
 .cover {
     width: 30rem;
 }
