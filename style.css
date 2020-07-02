@@ -21,13 +21,6 @@ body {
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
 
-.box:hover {
-    translate: 0.5s all;
-    -webkit-transform: scale(1.05);
-    -moz-transform:scale(1.05);
-    -o-transform:scale(1.05);
-    transform:scale(1.05);
-}
 
 .sticky {
     position: fixed;
